@@ -4,7 +4,7 @@
 This project is a Machine Learning-powered web application designed to predict whether an online shopper will generate revenue based on their session behavior. By analyzing metrics such as bounce rates, page values, and session duration, the model identifies high-intent visitors in real-time.
 
 ---
-### ** Live Link :** https://ecommerce-prediction.streamlit.app/#high-conversion-intent
+### **Live Link :**  https://ecommerce-prediction.streamlit.app/#high-conversion-intent
 ### **🛠️ Technical Stack**
 * **Language:** Python 3.12 (64-bit)
 * **Machine Learning:** K-Nearest Neighbors (KNN)
