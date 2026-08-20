@@ -1,7 +1,7 @@
 # 🛍️ E-commerce Visitor Purchase Prediction 
 
 ### **Project Overview**
-This project is a Machine Learning-powered web application designed to predict whether an online shopper will generate revenue based on their session behavior. By analyzing metrics such as bounce rates, page values, and session duration, the model identifies high-intent visitors in real-time.
+This project is a Machine Learning-powered web application designed to predict whether an online shopper will generate revenue based on their session behavior. By analyzing metrics such as bounce rates, page values, and session duration, the model identifies high-intent visitors in real-time(A Ecommerce Visitor Purchase Prediction).
 
 ---
 ### **Live Link :**  https://ecommerce-prediction.streamlit.app/#high-conversion-intent
